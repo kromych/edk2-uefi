@@ -1,0 +1,58 @@
+{
+    "records": [
+        {
+            "pcr": 0,
+            "digests": [
+                {
+                    "hashAlg": "sha256",
+                    "digest": "fcc81cc73a9d22ab1e1a4501654ffcaf5f9b5f93d8c78ab4fed9898922e55d37"
+                },
+                {
+                    "hashAlg": "sha384",
+                    "digest": "4b1ffb611b7dd827be95001bcc1bc4c63dec7660144dd3f2e4d6341389fe2f9fa00d31f9c34880c3d985b52a68a0667c"
+                }
+            ],
+            "content_type": "pcclient_std",
+            "content": {
+                "event_type": "EV_S_CRTM_VERSION",
+                "event_data": "650064006b0032002d00320030003200340031003100310037002d0035002e0066006300340031000000"
+            }
+        },
+        {
+            "pcr": 0,
+            "digests": [
+                {
+                    "hashAlg": "sha256",
+                    "digest": "05f3dcd3dc4eb0cf7c2283282dc3b5a94fb3e46f9a7224fc01c28030904f00c6"
+                },
+                {
+                    "hashAlg": "sha384",
+                    "digest": "077562a263de10d5859a558341e04709d4683b18358549099e1b54d077cad53b1cac0cab8c75f154ec1617f1366a16a6"
+                }
+            ],
+            "content_type": "pcclient_std",
+            "content": {
+                "event_type": "EV_EFI_PLATFORM_FIRMWARE_BLOB",
+                "event_data": "000082000000000000000e0000000000"
+            }
+        },
+        {
+            "pcr": 0,
+            "digests": [
+                {
+                    "hashAlg": "sha256",
+                    "digest": "f11940368a922fc3cd2c6708137ad521e8fe05ba7bc1ada65b1e1ffb499d364d"
+                },
+                {
+                    "hashAlg": "sha384",
+                    "digest": "9e2270ef5c21019d2908069568dd4fc09ed683d1cf4059ed6212208bb7946b10c68642d55b4e82d0ed83fb561b7e01bc"
+                }
+            ],
+            "content_type": "pcclient_std",
+            "content": {
+                "event_type": "EV_EFI_PLATFORM_FIRMWARE_BLOB",
+                "event_data": "00009000000000000000e80000000000"
+            }
+        }
+    ]
+}
